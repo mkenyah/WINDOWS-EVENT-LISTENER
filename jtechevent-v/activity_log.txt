@@ -1,0 +1,80 @@
+2024-09-18 12:20:30 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 12:21:30 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 12:22:30 - event.py - jtechevent-v - Visual Studio Code
+clear
+2024-09-18 12:35:31 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 12:37:03 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 12:38:03 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 12:39:03 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 12:40:03 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 12:41:03 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 12:42:03 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 12:43:03 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 12:44:03 - ChatGPT - Google Chrome
+2024-09-18 12:45:03 - Search
+2024-09-18 12:46:03 - Search
+2024-09-18 12:47:03 - kali-linux-2023.2-virtualbox-amd64 (Snapshot 1) [Running] - Oracle VM VirtualBox : 1
+2024-09-18 12:48:03 - kali-linux-2023.2-virtualbox-amd64 (Snapshot 1) [Running] - Oracle VM VirtualBox : 1
+2024-09-18 12:49:03 - kali-linux-2023.2-virtualbox-amd64 (Snapshot 1) [Running] - Oracle VM VirtualBox : 1
+2024-09-18 12:50:54 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 12:51:54 - ChatGPT - Google Chrome
+2024-09-18 12:52:54 - ChatGPT - Google Chrome
+2024-09-18 12:55:34 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 12:56:34 - ChatGPT - Google Chrome
+2024-09-18 14:03:23 - Activity Logger
+2024-09-18 14:04:23 - Activity Logger
+2024-09-18 14:04:23 - Activity Logger
+2024-09-18 14:05:51 - Activity Logger
+2024-09-18 14:06:51 - Spotify Free
+2024-09-18 14:07:48 - Activity Logger
+2024-09-18 14:07:51 - Activity Logger
+2024-09-18 14:09:03 - Activity Logger
+2024-09-18 14:09:57 - Activity Logger
+2024-09-18 14:10:03 - New Tab - Google Chrome
+2024-09-18 14:10:57 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 14:11:03 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 14:11:57 - 
+2024-09-18 14:12:03 - 
+2024-09-18 14:12:57 - Action center
+2024-09-18 14:13:03 - Activity Logger
+2024-09-18 14:13:57 - Activity Logger
+2024-09-18 14:14:03 - Activity Logger
+2024-09-18 14:14:57 - Activity Logger
+2024-09-18 14:15:04 - File Explorer
+2024-09-18 14:15:57 - Microsoft 365 (Office)
+2024-09-18 14:16:04 - Microsoft 365 (Office)
+2024-09-18 14:16:57 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 14:17:04 - 
+2024-09-18 14:17:57 - Activity Logger
+2024-09-18 14:18:04 - Activity Logger
+2024-09-18 14:18:57 - WhatsApp
+2024-09-18 14:19:04 - WhatsApp
+2024-09-18 14:19:57 - Activity Logger
+2024-09-18 14:20:04 - activity_log.txt - jtechevent-v - Visual Studio Code
+2024-09-18 14:20:57 - Activity Logger
+2024-09-18 14:21:04 - Activity Logger
+2024-09-18 14:21:57 - Activity Logger
+2024-09-18 14:22:04 - Activity Logger
+2024-09-18 14:22:57 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 14:23:04 - event.py - jtechevent-v - Visual Studio Code
+2024-09-18 15:48:18 - Activity Logger
+2024-09-18 15:49:18 - habit_tracker.db - jtechevent-v - Visual Studio Code
+2024-09-18 15:50:18 - habit_tracker.db - jtechevent-v - Visual Studio Code
+2024-09-18 15:51:18 - habit_tracker.db - jtechevent-v - Visual Studio Code
+2024-09-18 15:52:18 - tempCodeRunnerFile.py - jtechevent-v - Visual Studio Code
+2024-09-18 15:53:18 - Extension: SQLite Viewer - jtechevent-v - Visual Studio Code
+2024-09-18 15:54:18 - Extension: SQLite Viewer - jtechevent-v - Visual Studio Code
+2024-09-18 15:55:18 - habit_tracker.db - jtechevent-v - Visual Studio Code
+2024-09-18 15:56:18 - habit_tracker.db - jtechevent-v - Visual Studio Code
+2024-09-18 15:57:18 - habit_tracker.db - jtechevent-v - Visual Studio Code
+2024-09-18 15:58:18 - Instructor-Led Online Training with 24X7 Lifetime Support | Edureka - Google Chrome
+2024-09-18 15:59:19 - Hydejack | A boutique Jekyll theme - Google Chrome
+2024-09-18 16:00:19 - What’s New in Hydejack 9.1? | Hydejack - Google Chrome
+2024-09-18 16:01:19 - habit_tracker.db - jtechevent-v - Visual Studio Code
+2024-09-18 16:02:19 - habit_tracker.db - jtechevent-v - Visual Studio Code
+2024-09-18 16:03:19 - habit_tracker.db - jtechevent-v - Visual Studio Code
+2024-09-18 16:04:19 - habit_tracker.db - jtechevent-v - Visual Studio Code
+2024-09-18 16:05:19 - habit_tracker.db - jtechevent-v - Visual Studio Code
+2024-09-18 16:06:19 - habit_tracker.db - jtechevent-v - Visual Studio Code
+2024-09-18 16:07:19 - New Tab - Google Chrome
+2024-09-18 16:08:19 - GitHub Dashboard - Google Chrome
